@@ -11,7 +11,8 @@ It's very simple to use this chatting program.
 
   -> First run Server.py in any Python IDE.
   
-  It will show you a message "Server is listening....".
+  It will show you a message: 
+    <h4>Server is listening....</h4>
   
   <h3>Client.py</h3>
   
@@ -25,7 +26,9 @@ It's very simple to use this chatting program.
       
       python3 Server.py
   
-  It will show you a message "Server is listening....".
+  
+  It will show you a message: 
+    <h4>Server is listening....</h4>
   
   -> Open other terminal in that same location.
   
