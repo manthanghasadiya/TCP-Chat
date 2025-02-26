@@ -48,9 +48,3 @@ def receive():
 
 print('server is listening....')
 receive()
-
-
-
-
-
-
